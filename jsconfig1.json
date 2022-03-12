@@ -1,0 +1,63 @@
+{
+  "TypesofRice": [
+    {
+      "Name": "Basumati",
+      "Weight": "5kg",
+      "Price": "430"
+    },
+
+    {
+      "Name": "Basu",
+      "Weight": "4kg",
+      "Price": "567"
+
+    },
+
+    {
+      "Name": "rfgh",
+      "Weight": "2kg",
+      "Price": "43"
+    }
+  ],
+  "Typesofgrain": [
+    {
+      "Name": "pulses",
+      "Weight": "4kg",
+      "Price": "430"
+    },
+
+    {
+      "Name": "moong",
+      "Weight": "4kg",
+      "Price": "567"
+
+    },
+
+    {
+      "Name": "dal",
+      "Weight": "2kg",
+      "Price": "434"
+    }
+  ],
+
+  "TypesofWheat": [
+    {
+      "Name": "WheatB",
+      "Weight": "5kg",
+      "Price": "530"
+    },
+
+    {
+      "Name": "WheatA",
+      "Weight": "4kg",
+      "Price": "867"
+
+    },
+
+    {
+      "Name": "WheatC",
+      "Weight": "2kg",
+      "Price": "443"
+    }
+  ]
+}
